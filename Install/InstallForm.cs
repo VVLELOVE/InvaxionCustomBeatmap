@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace InvaxionCustomSpectrumInstall
+namespace InvaxionCustomBeatmapInstall
 {
     public partial class InstallForm : Form
     {
@@ -113,7 +113,7 @@ namespace InvaxionCustomSpectrumInstall
                 Log("安装补丁中...");
 
                 // 复制用到的类库
-                var libs = new string[] { "0Harmony12.dll", "InvaxionCustomSpectrumPlugin.dll" };
+                var libs = new string[] { "0Harmony12.dll", "InvaxionCustomBeatmapPlugin.dll" };
                 foreach (var i in libs)
                 {
                     var path = Path.Combine(CurrentManagedPath, i);

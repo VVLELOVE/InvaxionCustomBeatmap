@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace InvaxionCustomSpectrumInstall
+namespace InvaxionCustomBeatmapInstall
 {
     class Config
     {

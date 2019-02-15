@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace InvaxionCustomSpectrumInstall
+namespace InvaxionCustomBeatmapInstall
 {
     public sealed class XXTEA
     {

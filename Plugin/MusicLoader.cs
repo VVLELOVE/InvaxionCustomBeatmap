@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using UnityEngine;
 
-namespace InvaxionCustomSpectrumPlugin
+namespace InvaxionCustomBeatmapPlugin
 {
     class MusicLoader
     {

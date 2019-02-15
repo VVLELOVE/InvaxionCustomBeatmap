@@ -58,7 +58,6 @@
     <Compile Include="InvaxionObj\InvaxionBar.cs" />
     <Compile Include="InvaxionObj\InvaxionNode.cs" />
     <Compile Include="InvaxionObj\InvaxionTrack.cs" />
-    <Compile Include="MapConverterBak.cs" />
     <Compile Include="MapConverter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

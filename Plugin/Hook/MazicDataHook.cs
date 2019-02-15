@@ -2,7 +2,7 @@
 using Harmony12;
 using System;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // HOOK Aquatrax.MazicData
     class MazicDataHook

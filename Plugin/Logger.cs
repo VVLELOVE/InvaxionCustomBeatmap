@@ -1,4 +1,4 @@
-﻿namespace InvaxionCustomSpectrumPlugin
+﻿namespace InvaxionCustomBeatmapPlugin
 {
     class Logger
     {

@@ -1,10 +1,10 @@
-﻿namespace InvaxionCustomSpectrumInstall
+﻿namespace InvaxionCustomBeatmapInstall
 {
     class ModLoader
     {
         public static void Load()
         {
-            InvaxionCustomSpectrumPlugin.Bootstrap.Load();
+            InvaxionCustomBeatmapPlugin.Bootstrap.Load();
         }
     }
 }

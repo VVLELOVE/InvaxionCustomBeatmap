@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace InvaxionCustomSpectrumInstall
+namespace InvaxionCustomBeatmapInstall
 {
     static class Program
     {

@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Reflection.Emit;
 using System.Collections.Generic;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // Aquatrax.PC_newQuickPlayView
     class PCNewQuickPlayViewHook

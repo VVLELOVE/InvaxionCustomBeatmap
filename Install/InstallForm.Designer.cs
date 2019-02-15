@@ -1,4 +1,4 @@
-﻿namespace InvaxionCustomSpectrumInstall
+﻿namespace InvaxionCustomBeatmapInstall
 {
     partial class InstallForm
     {

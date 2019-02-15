@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Reflection.Emit;
 using UnityEngine;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // HOOK Aquatrax.PlayData
     class PlayDataHook

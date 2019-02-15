@@ -2,7 +2,7 @@
 using Harmony12;
 using System.Collections.Generic;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // HOOK Aquatrax.GlobalConfig
     class GlobalConfigHook

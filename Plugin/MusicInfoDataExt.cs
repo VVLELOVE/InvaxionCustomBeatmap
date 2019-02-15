@@ -1,6 +1,6 @@
 ﻿using Aquatrax;
 
-namespace InvaxionCustomSpectrumPlugin
+namespace InvaxionCustomBeatmapPlugin
 {
     class MusicInfoDataExt : MusicInfoData
     {

@@ -2,9 +2,9 @@
 using Aquatrax;
 using Harmony12;
 using UnityEngine;
-using InvaxionCustomSpectrumPlugin.Hook;
+using InvaxionCustomBeatmapPlugin.Hook;
 
-namespace InvaxionCustomSpectrumPlugin
+namespace InvaxionCustomBeatmapPlugin
 {
     public class Bootstrap
     {

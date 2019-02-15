@@ -7,8 +7,8 @@
     <ProjectGuid>{692C4BF6-DA36-41EE-A587-3F29BBF7941A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>InvaxionCustomSpectrumPlugin</RootNamespace>
-    <AssemblyName>InvaxionCustomSpectrumPlugin</AssemblyName>
+    <RootNamespace>InvaxionCustomBeatmapPlugin</RootNamespace>
+    <AssemblyName>InvaxionCustomBeatmapPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -61,6 +61,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(ProjectDir)$(OutDir)InvaxionCustomSpectrumPlugin.dll" "F:\Program Files (x86)\Steam\steamapps\common\音灵 INVAXION\INVAXION_Data\Managed\InvaxionCustomSpectrumPlugin.dll"</PostBuildEvent>
+    <PostBuildEvent>copy "$(ProjectDir)$(OutDir)InvaxionCustomBeatmapPlugin.dll" "F:\Program Files (x86)\Steam\steamapps\common\音灵 INVAXION\INVAXION_Data\Managed\InvaxionCustomBeatmapPlugin.dll"</PostBuildEvent>
   </PropertyGroup>
 </Project>

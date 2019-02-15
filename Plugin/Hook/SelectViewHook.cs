@@ -6,7 +6,7 @@ using System.Reflection.Emit;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // Aquatrax.SelectView
     class SelectViewHook

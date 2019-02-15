@@ -1,7 +1,7 @@
 ﻿using Harmony12;
 using UnityEngine;
 
-namespace InvaxionCustomSpectrumPlugin.Hook
+namespace InvaxionCustomBeatmapPlugin.Hook
 {
     // HOOK Aquatrax.ExtensionMethods
     class ExtensionMethodsHook

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace InvaxionCustomSpectrumPlugin
+namespace InvaxionCustomBeatmapPlugin
 {
     class HomemadeMusic : MonoBehaviour
     {
